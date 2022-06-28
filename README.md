@@ -6,7 +6,7 @@ In Competency Exercises, you demonstrate your skill and ability to use the progr
 -For-Each loops     
 -Anonymous objects 
 
-Module 4 Competency Exercise: Museum Store Cafe 
+# Module 4 Competency Exercise: Museum Store Cafe 
 
 You have worked with the Museum in previous exercises. Here, you will work on inventory for the Museum Store Cafe. An inventory item has a name, category, price, and quantity. In the driver class, you will add items to the cafe inventory -- half will be instantiated and half will be anonymous. Display the entire menu using a For-Each loop. Ask the user what type of item they want to see. In the example below, the categories or types of items are entree, side, drink, and dessert. The user selects one category, and the program will print out any inventory item with that same category.  
 

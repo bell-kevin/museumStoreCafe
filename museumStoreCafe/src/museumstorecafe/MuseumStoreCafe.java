@@ -20,13 +20,13 @@ public class MuseumStoreCafe {
         String searchTerm = "";
         //instantiate, then add to ArrayList
         item = new Item("cheeseburger", "entree", 4.5, 10);
-        menu.add(0, item);
+        menu.add(item);
         item = new Item("fries", "side", 1, 20);
-        menu.add(1, item);
+        menu.add(item);
         item = new Item("soda", "drink", 1, 25);
-        menu.add(2, item);
+        menu.add(item);
         item = new Item("ice cream", "dessert", 1.25, 25);
-        menu.add(3, item);
+        menu.add(item);
         //anonymous
         menu.add(new Item("chicken nuggets", "entree", 4, 10));
         menu.add(new Item("salad", "side", 2.75, 5));
